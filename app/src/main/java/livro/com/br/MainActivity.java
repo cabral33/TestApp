@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
                 btCalcularOnClick();
             }
 
-            private void btCalcularOnClick() {              //classe anonimata
+            private void btCalcularOnClick() {              //classe anonimata para o botao
             }
         });
 
@@ -70,7 +70,7 @@ public class MainActivity extends Activity {
             tvResul.setText(new DecimalFormat("0.00").format(imc));
         }
 
-        private void btLimparOnClick(){
+        private void btLimparOnClick() {
             etPeso.setText("");
             etAltura.setText("");
             tvResul.setText("0.0");
