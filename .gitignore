@@ -1,7 +1,0 @@
-#Ignora para subir
-
-*.iml
-build/
-*.swp
-.gradle/
-.idea/
