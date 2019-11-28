@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
             public void onClick(View arg0) {
                 btLimparOnClick();
             }
-            private void btLimparOnClick() {                //classe anonimata .
+            private void btLimparOnClick() {                //classe anonimata ..
             }
         });
 
