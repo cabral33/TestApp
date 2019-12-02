@@ -1,4 +1,6 @@
+# Arquivos locais
+
 app/build/
-.idea
-.gradle
+.idea/
+.gradle/
 *.iml
