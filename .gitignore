@@ -1,4 +1,5 @@
 /app/build/
 .idea/
-.gradle/
+.gradle/*
 *.iml
+.gitignore
