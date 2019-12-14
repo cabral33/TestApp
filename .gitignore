@@ -2,8 +2,8 @@
 
 app/build/
 /build
-.gradle
-.idea/
+/.gradle
+/.idea
 
 # Arquivos
 
