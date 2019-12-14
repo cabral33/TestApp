@@ -1,11 +1,12 @@
 # Diretorios
+app/build/
+/build
 .gradle
 .idea
 
-app/build/
-/build
+# Extensoes
+*.iml
 
 # Arquivos
-
 local.properties
-*.iml
+
