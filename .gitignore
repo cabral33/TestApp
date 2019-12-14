@@ -1,6 +1,11 @@
-# Arquivos locais
+# Diretorios
 
 app/build/
+/build
+.gradle
 .idea/
-.gradle/
+
+# Arquivos
+
+local.properties
 *.iml
