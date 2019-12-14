@@ -2,11 +2,9 @@
 
 app/build/
 /build
-.gradle/5.4.1
-.gradle/buildOutputCleanup
-.gradle/vcs-1
 
-*.idea/
+/.gradle/*
+.idea
 
 # Arquivos
 
