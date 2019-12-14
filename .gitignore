@@ -1,10 +1,10 @@
 # Diretorios
+.gradle
+.idea
 
 app/build/
 /build
 
-/.gradle/*
-.idea
 
 # Arquivos
 
