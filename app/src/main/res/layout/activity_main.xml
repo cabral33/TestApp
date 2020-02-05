@@ -2,12 +2,41 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    android:layout_height="match_parent"
+    android:layout_margin="100dp"
+    android:orientation="vertical">
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Botão" />
+        android:text="Mostrar Permissao"
+        android:onClick="mostrarPermissao"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mostrar Camera"
+        android:onClick="mostrarcamera"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mostrar Notificação"
+        android:onClick="mostrarNotificacao"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mostrar Configuração"
+        android:onClick="mostrarConfiguracao"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mostrar Segunda Tela"
+        android:onClick="segundarela"/>
+
+
 
 </LinearLayout>
