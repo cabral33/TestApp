@@ -27,10 +27,6 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        Uri site = Uri.parse("android.com.br");
-//        Intent intent = new Intent(Intent.ACTION_VIEW, site);
-//        startActivity(intent);
-
     }
 
     private boolean createNotificationChannel() {
